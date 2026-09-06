@@ -1,2 +1,3 @@
 # demo-repo
-its for demo 
+yo its my first get repo
+
